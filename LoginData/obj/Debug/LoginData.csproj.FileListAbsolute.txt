@@ -1,0 +1,11 @@
+D:\Projects\LoginData\LoginData\bin\Debug\LoginData.exe
+D:\Projects\LoginData\LoginData\bin\Debug\LoginData.pdb
+D:\Projects\LoginData\LoginData\bin\Debug\System.Data.SQLite.dll
+D:\Projects\LoginData\LoginData\obj\Debug\LoginData.csprojResolveAssemblyReference.cache
+D:\Projects\LoginData\LoginData\obj\Debug\LoginData.LoginData.resources
+D:\Projects\LoginData\LoginData\obj\Debug\LoginData.Properties.Resources.resources
+D:\Projects\LoginData\LoginData\obj\Debug\LoginData.csproj.GenerateResource.Cache
+D:\Projects\LoginData\LoginData\obj\Debug\LoginData.exe
+D:\Projects\LoginData\LoginData\obj\Debug\LoginData.pdb
+D:\Projects\LoginData\LoginData\bin\Debug\LoginData.exe.config
+D:\Projects\LoginData\LoginData\bin\Debug\System.Data.SQLite.xml
